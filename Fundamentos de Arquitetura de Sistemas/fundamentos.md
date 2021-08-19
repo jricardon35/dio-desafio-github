@@ -48,7 +48,7 @@ serviços web são API's que se comunicam por meio de redes sobre o protocolo HT
 
 ![image-20210818223819207](C:\Users\Ricardo\AppData\Roaming\Typora\typora-user-images\image-20210818223819207.png)
 
-![](C:\Users\Ricardo\Desktop/soap1.jpg)
+![im](C:\Users\Ricardo\Desktop/soap1.jpg)
 
 1. ·     **SOAP Envelope:** possui toda a mensagem;
 
