@@ -46,9 +46,10 @@ serviços web são API's que se comunicam por meio de redes sobre o protocolo HT
 2. ·     Sem limites de tags;
 3. ·     Criada na década de 90 pela W3C.
 
-![image-20210818223819207](C:\Users\Ricardo\AppData\Roaming\Typora\typora-user-images\image-20210818223819207.png)
+![soap](https://user-images.githubusercontent.com/73677005/129997762-4a15cff6-e91a-4ab9-b868-4fca5653e53c.jpg)
 
-![im](C:\Users\Ricardo\Desktop/soap1.jpg)
+![soap1](https://user-images.githubusercontent.com/73677005/129997840-aa049518-3676-412b-9263-1f968f846951.jpg)
+
 
 1. ·     **SOAP Envelope:** possui toda a mensagem;
 
@@ -56,7 +57,7 @@ serviços web são API's que se comunicam por meio de redes sobre o protocolo HT
 
 3. ·     **SOAP Body:** contém os detalhes da mensagem.                        
 
-   ​                                   
+                                  
 
    
 
@@ -74,7 +75,8 @@ XSD: xml schema definiton (usado para definir a estrutura de dados que será val
 2. ·     Faz a integração entre aplicações , clientes ;
 3. ·     Aceita os formatos XLM, JSON, entre outros.
 
-![image-20210818224524352](C:\Users\Ricardo\AppData\Roaming\Typora\typora-user-images\image-20210818224524352.png)
+![estrutura rest](https://user-images.githubusercontent.com/73677005/129997938-c0f24f96-9e70-4636-a11c-266b9b210cdd.jpg)
+
 
 
 
@@ -101,7 +103,7 @@ Principais métodos HTTP:
 2. ·     Utiliza chave, valor e listas ordenadas;
 3. ·     Um dos formatos mais utilizados.
 
-![image-20210818224642646](C:\Users\Ricardo\AppData\Roaming\Typora\typora-user-images\image-20210818224642646.png)
+![json](https://user-images.githubusercontent.com/73677005/129998033-0d6ec00f-260b-4fcd-ae07-edce535611a7.jpg)
 
 
 
@@ -121,7 +123,7 @@ Principais métodos HTTP:
 
 ## 																	Monolito(apenas 1 serviço)
 
-![image-20210818224818912](C:\Users\Ricardo\AppData\Roaming\Typora\typora-user-images\image-20210818224818912.png)
+![monolito](https://user-images.githubusercontent.com/73677005/129998049-cbd1acbc-c721-4421-8031-041322929633.jpg)
 
 ## *vantagens*
 
@@ -148,7 +150,7 @@ Principais métodos HTTP:
 
 ## 																							
 
-![image-20210818225510162](C:\Users\Ricardo\AppData\Roaming\Typora\typora-user-images\image-20210818225510162.png)
+![microserviços](https://user-images.githubusercontent.com/73677005/129998094-3436b4ec-75a8-42d8-8e73-0eeef56c23df.jpg)
 
 | Microserviços #1              |                                                              |
 | ----------------------------- | ------------------------------------------------------------ |
@@ -261,7 +263,7 @@ Protocolo - Broker - User Identifier - Sensor - Information Type
 
 
 
-![image-20210818231415708](C:\Users\Ricardo\AppData\Roaming\Typora\typora-user-images\image-20210818231415708.png)
+![QOS](https://user-images.githubusercontent.com/73677005/129998130-af6ff85b-141a-43e5-8828-cfc91815af22.jpg)
 
 ## *QoS (0)*
 
