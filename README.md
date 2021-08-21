@@ -4,6 +4,6 @@
 
 Repositório da pasta Git e GitHub contém alguns dos comandos mais usados
 
-Repositório da pasta Fundamentos e Arquitetura de Sistemas contém um breve resumo do conteúdo
+Repositório da pasta Arquitetura de Sistemas contém 2 arquivos onde cada um contém um breve resumo do conteúdo
 ## Fique a vontade para deixar a sua opinião
 
